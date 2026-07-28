@@ -1,0 +1,7 @@
+=========================================
+Session Started : 7/28/2026, 5:51:13 AM
+=========================================
+
+[7/28/2026, 5:51:13 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ multiple files { path: ['.env.local', '.env'] }[0m
+[7/28/2026, 5:51:13 AM] [LOG] Connected to PORT: 8080
+[7/28/2026, 5:51:14 AM] [LOG] Connected to MongoDB

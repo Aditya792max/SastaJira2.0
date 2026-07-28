@@ -1,0 +1,7 @@
+=========================================
+Session Started : 7/28/2026, 3:15:06 AM
+=========================================
+
+[7/28/2026, 3:15:06 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ enable debugging { debug: true }[0m
+[7/28/2026, 3:15:06 AM] [LOG] Connected to PORT: 8080
+[7/28/2026, 3:15:07 AM] [LOG] Connected to MongoDB
