@@ -1,0 +1,42 @@
+=========================================
+Session Started : 7/28/2026, 9:18:29 AM
+=========================================
+
+[7/28/2026, 9:18:30 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ◈ encrypted .env [www.dotenvx.com][0m
+[7/28/2026, 9:18:30 AM] [LOG] Connected to PORT: 8080
+[7/28/2026, 9:18:31 AM] [LOG] Connected to MongoDB
+[7/28/2026, 9:18:35 AM] [LOG] [
+  {
+    "_id": "6a682532fc244da4638b79fb",
+    "name": "Aditya",
+    "lastName": "Kirtania",
+    "email": "aditya@example.com",
+    "password": "password123",
+    "location": "Bhubaneswar",
+    "createdAt": "2026-07-28T03:42:42.688Z",
+    "updatedAt": "2026-07-28T03:42:42.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a682567fc244da4638b79fc",
+    "name": "Namish",
+    "lastName": "Tripathi",
+    "email": "Namish@example.com",
+    "password": "password123",
+    "location": "Bhubaneswar",
+    "createdAt": "2026-07-28T03:43:35.358Z",
+    "updatedAt": "2026-07-28T03:43:35.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a68259a18689bd6d3394df2",
+    "name": "Avilasha",
+    "lastName": "Sharma",
+    "email": "Avilasha@example.com",
+    "password": "password123",
+    "location": "Bhubaneswar",
+    "createdAt": "2026-07-28T03:44:26.737Z",
+    "updatedAt": "2026-07-28T03:44:26.737Z",
+    "__v": 0
+  }
+]

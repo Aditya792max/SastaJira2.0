@@ -1,0 +1,8 @@
+=========================================
+Session Started : 7/28/2026, 6:50:39 AM
+=========================================
+
+[7/28/2026, 6:50:39 AM] [ERROR] (node:15976) Warning: Failed to load the ES module: /Users/adityavikramkirtania/Desktop/MERN/SastaJira/v2/Server/Routes/UserRoutes.js. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+Session Ended : 7/28/2026, 6:50:39 AM

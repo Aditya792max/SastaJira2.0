@@ -1,0 +1,7 @@
+=========================================
+Session Started : 7/28/2026, 9:09:34 AM
+=========================================
+
+[7/28/2026, 9:09:35 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ◈ secrets for agents [www.dotenvx.com][0m
+[7/28/2026, 9:09:35 AM] [LOG] Connected to PORT: 8080
+[7/28/2026, 9:09:36 AM] [LOG] Connected to MongoDB
