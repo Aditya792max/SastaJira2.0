@@ -1,0 +1,7 @@
+=========================================
+Session Started : 7/29/2026, 10:01:08 AM
+=========================================
+
+[7/29/2026, 10:01:08 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌁ auth for agents [www.vestauth.com][0m
+[7/29/2026, 10:01:08 AM] [LOG] Connected to PORT: 8080
+[7/29/2026, 10:01:11 AM] [LOG] Connected to MongoDB
