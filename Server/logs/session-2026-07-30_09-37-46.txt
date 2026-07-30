@@ -1,0 +1,14 @@
+=========================================
+Session Started : 7/30/2026, 9:37:46 AM
+=========================================
+
+[7/30/2026, 9:37:46 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ custom filepath { path: '/custom/path/.env' }[0m
+[7/30/2026, 9:37:46 AM] [LOG] Connected to PORT: 8080
+[7/30/2026, 9:37:47 AM] [LOG] Connected to MongoDB
+[7/30/2026, 9:37:57 AM] [LOG] {
+  "name": "Rahul",
+  "lastName": "Verma",
+  "email": "rahul.verma02@example.com",
+  "password": "Rahul@123",
+  "location": "Delhi"
+}

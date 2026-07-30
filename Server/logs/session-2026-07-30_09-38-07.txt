@@ -1,0 +1,63 @@
+=========================================
+Session Started : 7/30/2026, 9:38:07 AM
+=========================================
+
+[7/30/2026, 9:38:07 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ suppress logs { quiet: true }[0m
+[7/30/2026, 9:38:07 AM] [LOG] Connected to PORT: 8080
+[7/30/2026, 9:38:08 AM] [LOG] Connected to MongoDB
+[7/30/2026, 9:38:23 AM] [LOG] {
+  "name": "Priya",
+  "lastName": "Mehta",
+  "email": "priya.mehta03@example.com",
+  "password": "Priya@123",
+  "location": "Mumbai"
+}
+[7/30/2026, 9:38:28 AM] [LOG] {
+  "name": "Sneha",
+  "lastName": "Patel",
+  "email": "sneha.patel04@example.com",
+  "password": "Sneha@123",
+  "location": "Ahmedabad"
+}
+[7/30/2026, 9:38:35 AM] [LOG] {
+  "name": "Arjun",
+  "lastName": "Singh",
+  "email": "arjun.singh05@example.com",
+  "password": "Arjun@123",
+  "location": "Jaipur"
+}
+[7/30/2026, 9:38:44 AM] [LOG] {
+  "name": "Neha",
+  "lastName": "Gupta",
+  "email": "neha.gupta06@example.com",
+  "password": "Neha@123",
+  "location": "Lucknow"
+}
+[7/30/2026, 9:38:52 AM] [LOG] {
+  "name": "Karan",
+  "lastName": "Malhotra",
+  "email": "karan.malhotra07@example.com",
+  "password": "Karan@123",
+  "location": "Pune"
+}
+[7/30/2026, 9:38:59 AM] [LOG] {
+  "name": "Ananya",
+  "lastName": "Reddy",
+  "email": "ananya.reddy08@example.com",
+  "password": "Ananya@123",
+  "location": "Hyderabad"
+}
+[7/30/2026, 9:39:05 AM] [LOG] {
+  "name": "Vikram",
+  "lastName": "Nair",
+  "email": "vikram.nair09@example.com",
+  "password": "Vikram@123",
+  "location": "Kochi"
+}
+[7/30/2026, 9:39:10 AM] [LOG] {
+  "name": "Riya",
+  "lastName": "Kapoor",
+  "email": "riya.kapoor10@example.com",
+  "password": "Riya@123",
+  "location": "Chandigarh"
+}
