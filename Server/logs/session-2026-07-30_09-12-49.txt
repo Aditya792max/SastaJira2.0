@@ -1,0 +1,8 @@
+=========================================
+Session Started : 7/30/2026, 9:12:49 AM
+=========================================
+
+[7/30/2026, 9:12:49 AM] [ERROR] (node:13368) Warning: Failed to load the ES module: /Users/adityavikramkirtania/Desktop/MERN/SastaJira/v2/Server/Models/TicketModels.js. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+Session Ended : 7/30/2026, 9:12:49 AM
