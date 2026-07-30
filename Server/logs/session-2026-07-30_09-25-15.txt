@@ -1,0 +1,37 @@
+=========================================
+Session Started : 7/30/2026, 9:25:15 AM
+=========================================
+
+[7/30/2026, 9:25:15 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌁ auth for agents [www.vestauth.com][0m
+[7/30/2026, 9:25:15 AM] [LOG] Connected to PORT: 8080
+[7/30/2026, 9:25:23 AM] [LOG] Connected to MongoDB
+[7/30/2026, 9:25:29 AM] [LOG] [
+  {
+    "_id": "6a6ac9d6d884a5a47944d5fe",
+    "ticketId": "TICKET-001",
+    "description": "Login button is not working on the homepage.",
+    "status": "todo",
+    "priority": "high",
+    "type": "bug",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T03:49:42.727Z",
+    "updatedAt": "2026-07-30T03:49:42.727Z",
+    "__v": 0
+  }
+]
+[7/30/2026, 9:25:38 AM] [LOG] [
+  {
+    "_id": "6a6ac9d6d884a5a47944d5fe",
+    "ticketId": "TICKET-001",
+    "description": "Login button is not working on the homepage.",
+    "status": "todo",
+    "priority": "high",
+    "type": "bug",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T03:49:42.727Z",
+    "updatedAt": "2026-07-30T03:49:42.727Z",
+    "__v": 0
+  }
+]

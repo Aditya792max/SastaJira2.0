@@ -1,0 +1,51 @@
+=========================================
+Session Started : 7/30/2026, 9:18:46 AM
+=========================================
+
+[7/30/2026, 9:18:47 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ override existing { override: true }[0m
+[7/30/2026, 9:18:47 AM] [LOG] Connected to PORT: 8080
+[7/30/2026, 9:18:55 AM] [LOG] Connected to MongoDB
+[7/30/2026, 9:18:59 AM] [LOG] [
+  {
+    "_id": "6a682532fc244da4638b79fb",
+    "name": "Aditya",
+    "lastName": "Kirtania",
+    "email": "aditya@example.com",
+    "password": "password123",
+    "location": "Bhubaneswar",
+    "createdAt": "2026-07-28T03:42:42.688Z",
+    "updatedAt": "2026-07-28T03:42:42.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a682567fc244da4638b79fc",
+    "name": "Namish",
+    "lastName": "Tripathi",
+    "email": "Namish@example.com",
+    "password": "password123",
+    "location": "Bhubaneswar",
+    "createdAt": "2026-07-28T03:43:35.358Z",
+    "updatedAt": "2026-07-28T03:43:35.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a68259a18689bd6d3394df2",
+    "name": "Avilasha",
+    "lastName": "Sharma",
+    "email": "Avilasha@example.com",
+    "password": "password123",
+    "location": "Bhubaneswar",
+    "createdAt": "2026-07-28T03:44:26.737Z",
+    "updatedAt": "2026-07-28T03:44:26.737Z",
+    "__v": 0
+  }
+]
+[7/30/2026, 9:19:42 AM] [LOG] {
+  "ticketId": "TICKET-001",
+  "description": "Login button is not working on the homepage.",
+  "status": "todo",
+  "priority": "high",
+  "type": "bug",
+  "createdBy": "6a682532fc244da4638b79fb",
+  "assignedTo": "6a682532fc244da4638b79fb"
+}
