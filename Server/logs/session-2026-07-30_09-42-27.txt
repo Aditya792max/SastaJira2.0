@@ -1,0 +1,100 @@
+=========================================
+Session Started : 7/30/2026, 9:42:27 AM
+=========================================
+
+[7/30/2026, 9:42:28 AM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ enable debugging { debug: true }[0m
+[7/30/2026, 9:42:28 AM] [LOG] Connected to PORT: 8080
+[7/30/2026, 9:42:36 AM] [LOG] Connected to MongoDB
+[7/30/2026, 9:42:46 AM] [LOG] [
+  {
+    "_id": "6a6ac9d6d884a5a47944d5fe",
+    "ticketId": "TICKET-001",
+    "description": "Login button is not working on the homepage.",
+    "status": "todo",
+    "priority": "high",
+    "type": "bug",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T03:49:42.727Z",
+    "updatedAt": "2026-07-30T03:49:42.727Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6acd5a4dd9955491adfe7a",
+    "ticketId": "TICKET-002",
+    "description": "Registration form is not submitting after clicking the Sign Up button.",
+    "status": "todo",
+    "priority": "medium",
+    "type": "bug",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T04:04:42.450Z",
+    "updatedAt": "2026-07-30T04:04:42.450Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6acd614dd9955491adfe7b",
+    "ticketId": "TICKET-003",
+    "description": "Implement forgot password functionality with email verification.",
+    "status": "inprogress",
+    "priority": "high",
+    "type": "feature",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T04:04:49.408Z",
+    "updatedAt": "2026-07-30T04:04:49.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6acd684dd9955491adfe7c",
+    "ticketId": "TICKET-004",
+    "description": "Optimize dashboard loading time by reducing unnecessary API calls.",
+    "status": "inprogress",
+    "priority": "medium",
+    "type": "task",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T04:04:56.437Z",
+    "updatedAt": "2026-07-30T04:04:56.437Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6acd6d4dd9955491adfe7d",
+    "ticketId": "TICKET-005",
+    "description": "Profile picture upload fails for images larger than 5 MB.",
+    "status": "done",
+    "priority": "low",
+    "type": "bug",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T04:05:01.558Z",
+    "updatedAt": "2026-07-30T04:05:01.558Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6acd734dd9955491adfe7e",
+    "ticketId": "TICKET-006",
+    "description": "Add dark mode toggle in the user settings page.",
+    "status": "todo",
+    "priority": "low",
+    "type": "feature",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T04:05:07.212Z",
+    "updatedAt": "2026-07-30T04:05:07.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6acd784dd9955491adfe7f",
+    "ticketId": "TICKET-007",
+    "description": "Fix alignment issues in the navigation bar on mobile devices.",
+    "status": "done",
+    "priority": "high",
+    "type": "bug",
+    "createdBy": "6a682532fc244da4638b79fb",
+    "assignedTo": "6a682532fc244da4638b79fb",
+    "createdAt": "2026-07-30T04:05:12.778Z",
+    "updatedAt": "2026-07-30T04:05:12.778Z",
+    "__v": 0
+  }
+]
