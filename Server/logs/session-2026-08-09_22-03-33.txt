@@ -1,0 +1,6 @@
+=========================================
+Session Started : 8/9/2026, 10:03:33 PM
+=========================================
+
+[8/9/2026, 10:03:33 PM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ override existing { override: true }[0m
+[8/9/2026, 10:03:33 PM] [LOG] Connected to PORT: 8080
