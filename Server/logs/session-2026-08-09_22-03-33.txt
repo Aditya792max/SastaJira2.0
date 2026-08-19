@@ -4,3 +4,5 @@ Session Started : 8/9/2026, 10:03:33 PM
 
 [8/9/2026, 10:03:33 PM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ override existing { override: true }[0m
 [8/9/2026, 10:03:33 PM] [LOG] Connected to PORT: 8080
+[8/9/2026, 10:04:04 PM] [LOG] C ouldn't Connect to MongoDB
+[8/9/2026, 10:04:04 PM] [LOG] The error is : MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
