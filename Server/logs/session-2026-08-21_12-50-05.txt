@@ -1,0 +1,6 @@
+=========================================
+Session Started : 8/21/2026, 12:50:05 PM
+=========================================
+
+[8/21/2026, 12:50:05 PM] [LOG] ◇ injected env (2) from .env [2m// tip: ⌘ custom filepath { path: '/custom/path/.env' }[0m
+[8/21/2026, 12:50:05 PM] [LOG] Connected to PORT: 8080
